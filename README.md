@@ -17,7 +17,7 @@ This playbook provides a comprehensive and practical guide for generating high-q
 
 ## A Practical Workflow for Synthetic Data Generation
 
-High-quality synthetic data isn't created by accident. It's the result of a structured, iterative process. Follow these steps for reliable and effective dataset generation.
+Creating high-quality synthetic data is a structured, iterative process. Follow these steps for reliable and effective dataset generation.
 
 ### Step 1: Define the Task and a Strict Schema
 Before writing a single prompt, clearly define your model's target task and the exact data structure it requires. A strict schema is the foundation for clean, usable data.
@@ -55,14 +55,14 @@ To avoid a monotonous dataset, programmatically inject variety into your prompt 
 * **Rotate Personas:** Systematically vary the persona of the generator to capture different viewpoints (e.g., frustrated customer, curious new user, technical expert).
 
 ### Step 4: Generate in Batches and Validate
-Generate data in batches using APIs or scripts, not by hand in a playground. After each batch, perform validation.
+While you can generate data manually directly in a playground, you can also generate data in batches using APIs or scripts for a more automated and scalable approach. After each batch, perform validation.
 
 * **Automated Validation:** Write scripts to check if every generated sample conforms to the schema defined in Step 1. Reject any malformed outputs.
 * **LLM-based Validation:** Use a second, "evaluator" LLM to check the quality of the generated data. Ask it questions like: "On a scale of 1-5, how realistic is this customer support chat?" or "Does this text contain PII? Answer with only 'Yes' or 'No'."
 * **Human-in-the-Loop Review:** No automated process is perfect. Have a human spot-check a small percentage of each batch to catch subtle errors, biases, or unrealistic patterns the models might miss.
 
 ### Step 5: Analyze, Refine, and Iterate
-Treat dataset generation as an iterative ML project. Analyze your generated data. Are the labels balanced? Is there enough diversity? Use your findings from the validation step to refine your prompt templates, add more variation sources, and generate a new, improved batch.
+Treat dataset generation as an iterative project. Analyze your generated data. Are the labels balanced? Is there enough diversity? Use your findings from the validation step to refine your prompt templates, add more variation sources, and generate a new, improved batch.
 
 ---
 
