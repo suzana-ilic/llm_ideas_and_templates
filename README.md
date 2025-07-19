@@ -88,6 +88,7 @@ Generate user queries directed at a conversational AI across various domains (e.
 * **Labels:** Intent (e.g., `BookFlight`), Slots and Values (e.g., `{"destination": "Tokyo", "date": "2025-10-15"})`.
 * **Primary Use Cases:** Training NLU models, building task-oriented chatbots, and evaluating dialogue systems.
 * **Real-World Pro-Tip:** Generate ambiguous queries that could match multiple intents to train your model's disambiguation and clarification logic (e.g., "Book a table" could be for a restaurant or a library).
+* [Sample Dataset (100)](https://github.com/suzana-ilic/llm_ideas_and_templates/blob/main/data/intent_classification_slot_filling_synthetic_100.json)
 
 ### Complex Instruction Following
 A dataset of multi-step, conditional, or abstract instructions. Examples range from technical procedures to creative tasks.
