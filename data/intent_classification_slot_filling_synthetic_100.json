@@ -1,0 +1,1801 @@
+[
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  },
+  {
+    "Query": "Hey, can you find me a hotel in downtown Chicago from August 10th to August 15th? Something with free WiFi and a pool.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Novice",
+      "Channel": "Smart Speaker"
+    },
+    "Labels": {
+      "Intent": "FindHotel",
+      "Slots and Values": {
+        "destination": "downtown Chicago",
+        "check_in_date": "2025-08-10",
+        "check_out_date": "2025-08-15",
+        "amenities": [
+          "free wifi",
+          "pool"
+        ]
+      }
+    }
+  },
+  {
+    "Query": "Book a table for four at The French Laundry, this Saturday at 7 PM.",
+    "Metadata": {
+      "Domain": "Food Service",
+      "User Persona": "Power User",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookRestaurant",
+      "Slots and Values": {
+        "party_size": "4",
+        "restaurant_name": "The French Laundry",
+        "reservation_date": "2025-07-26",
+        "reservation_time": "19:00"
+      }
+    }
+  },
+  {
+    "Query": "I need a flight to San Francisco from JFK for next Friday, one way.",
+    "Metadata": {
+      "Domain": "Travel",
+      "User Persona": "Direct",
+      "Channel": "Mobile App"
+    },
+    "Labels": {
+      "Intent": "BookFlight",
+      "Slots and Values": {
+        "destination": "San Francisco",
+        "origin": "JFK",
+        "departure_date": "2025-07-25",
+        "trip_type": "one_way"
+      }
+    }
+  }
+]
